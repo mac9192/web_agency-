@@ -5,7 +5,7 @@ import Image from 'next/image'
 const Navigation = () => (
 
 
- <nav className="relative mx-auto p-6 ">
+ <nav className="relative mx-auto p-6">
 
     <div className="flex items-center justify-between">
          <div className="pt-2">
